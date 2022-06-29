@@ -12,7 +12,7 @@ axios
     buttonClick(sectionHidden);
   })
   .catch(function (error) {
-    // en cas d’échec de la requête
+    // en cas d'échec de la requête
     console.log(error);
   })
   .then(function () {
